@@ -5,6 +5,13 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>jenkins_mvc_demo</RootNamespace>
+    <UserSecretsId>eeca0cde-1f6c-4c46-81e6-1ed62f6b47c2</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.18.1" />
+  </ItemGroup>
 
 </Project>
