@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jenkins-mvc demo", "jenkins-mvc demo.csproj", "{669E4570-C84A-471E-B430-2085ADB03FD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jenkins-mvc demo", "jenkins-mvc demo.csproj", "{669E4570-C84A-471E-B430-2085ADB03FD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
